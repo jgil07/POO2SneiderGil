@@ -16,7 +16,7 @@ public class Vectores {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Grafico mostrar = new Grafico ();
+       Grafico mostrar = new Grafico (); //Linea creada por sneider
        mostrar.show(); //línea hecha por Karen
     }
     
