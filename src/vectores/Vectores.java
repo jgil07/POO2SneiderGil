@@ -17,7 +17,7 @@ public class Vectores {
      */
     public static void main(String[] args) {
        Grafico mostrar = new Grafico ();
-       mostrar.show();
+       mostrar.show(); //línea hecha por Karen
     }
     
 }
